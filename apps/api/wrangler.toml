@@ -1,0 +1,14 @@
+name = "tutorial-api"
+main = "src/index.ts"
+compatibility_date = "2023-12-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "todo-db"
+database_id = "YOUR_DATABASE_ID"
+preview_database_id = "YOUR_DATABASE_ID"
+
+[[r2_buckets]]
+binding = "BUCKET"
+bucket_name = "tutorial-images"
+preview_bucket_name = "tutorial-images"

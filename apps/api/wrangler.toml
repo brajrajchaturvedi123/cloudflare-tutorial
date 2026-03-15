@@ -3,10 +3,10 @@ main = "src/index.ts"
 compatibility_date = "2023-12-01"
 
 [[d1_databases]]
-binding = "DB"
-database_name = "todo-db"
-database_id = "YOUR_DATABASE_ID"
-preview_database_id = "YOUR_DATABASE_ID"
+binding = "todo_database"
+database_name = "todo-database"
+database_id = "857b71ba-af25-47f1-a84d-02ecf007c0bc"
+
 
 [[r2_buckets]]
 binding = "BUCKET"
